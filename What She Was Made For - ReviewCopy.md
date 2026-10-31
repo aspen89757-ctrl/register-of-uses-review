@@ -2,7 +2,7 @@
 
 *The Register of Uses · Book One*
 
-Review copy · chapters 1–33 · 110,964 words
+Review copy · chapters 1–33 · 110,971 words
 
 ---
 
@@ -24,7 +24,7 @@ The room was mine at eighteen. Same jug, same chip in the rim, same square of br
 
 It was the fifth of March. I was eighteen years and a day old.
 
-My mother had eleven months.
+My mother had eleven months, by a count I did not keep.
 
 I got as far as the third one on the quilt and stopped, because counting is what I do when I am frightened and I did not want to spend my morning at it.
 

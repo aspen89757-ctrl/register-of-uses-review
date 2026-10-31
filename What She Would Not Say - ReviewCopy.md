@@ -2,7 +2,7 @@
 
 *The Register of Uses · Book Two*
 
-**Review copy** · chapters 1–30 · **97,853 words** · 30 chapters · average 3,262
+**Review copy** · chapters 1–30 · **98,066 words** · 30 chapters · average 3,269
 
 ---
 
@@ -10,10 +10,10 @@
 
 | # | Chapter | Words |
 |---:|---|---:|
-| 01 | A Hundred and Eleven Miles | 3,703 |
+| 01 | A Hundred and Eleven Miles | 3,708 |
 | 02 | The Road | 3,310 |
 | 03 | The Beam House | 2,937 |
-| 04 | Fourteen Offices | 4,252 |
+| 04 | Fourteen Offices | 4,245 |
 | 05 | The Assembly | 3,387 |
 | 06 | What the Town Weighs | 3,553 |
 | 07 | The Covenant | 3,246 |
@@ -23,7 +23,7 @@
 | 11 | What the Cold Cost | 3,125 |
 | 12 | The Shire Hall | 3,019 |
 | 13 | Four Hundred and Eleven | 3,416 |
-| 14 | The Book of Marriages | 3,524 |
+| 14 | The Book of Marriages | 3,739 |
 | 15 | Short Weight | 2,952 |
 | 16 | The Wharf House | 3,167 |
 | 17 | Mr. Tarrant Junior | 2,926 |
@@ -40,7 +40,7 @@
 | 28 | The Money | 3,321 |
 | 29 | The Steps | 3,077 |
 | 30 | Nether Collow | 3,813 |
-| | **Total** | **97,853** |
+| | **Total** | **98,066** |
 
 ---
 
@@ -250,9 +250,9 @@ He stood with his hand on the door frame and did not answer at once, and I under
 
 He turned round then. "And come back when?"
 
-"I do not know."
+"When the work is done."
 
-"You do not know."
+"You do not know when that will be."
 
 "No."
 
@@ -1051,8 +1051,6 @@ She got up and went to the press in the corner and came back with the bundle of 
 The fire went down. Neither of us put anything on it.
 
 "Then the promise is the whole of it," I said.
-
-"The promise is the whole of it."
 
 "Whose promise?"
 
@@ -3774,6 +3772,22 @@ She picked up one of the cards and looked at it.
 "Judith."
 
 "We will have the dinner, and he will come, and he will sit at that table, and at the end of it I will be twenty-one and he will not be my guardian any more, and I am going to say so out loud in front of twenty-two people." She put the card down. "I have been a girl in a book for eleven years, Mrs. Rooke. On Thursday I am going to be a woman at a table, and whatever he has written against my name, I am going to make him say it to my face."
+
+"I was a girl in a book too," I said.
+
+She looked at me. "You? You are the one who reads them."
+
+"I was copied into one first. In my father's hand, in a parish office, in a hand I have read a great many times and never once for myself." I leaned on the table among the twenty-two cards. "A woman at a table is a good thing, Judith. But the table will ask you what you are for, the way a book does, and the answer is not written on any of these."
+
+She turned a card over in her fingers. "And you have found an answer?"
+
+"I have a question I have not asked yet," I said. "That is further than I had got at twenty-one."
+
+She put the card down and looked at me then not as a girl looks at a woman who has come to help her, but as one woman looks at another who has admitted to a want. "Then we are both of us going to be somebody new on Thursday. You will come back and tell me what you asked."
+
+"Here, or in Barrowfield," I said, "if I am ever this way again."
+
+"That is a promise, Mrs. Rooke, and I am holding you to it."
 
 ## Fifteen · Short Weight
 

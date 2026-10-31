@@ -2,7 +2,7 @@
 
 *The Register of Uses · Book Four*
 
-**Review copy** · chapters 1–30 · **94,431 words** · 30 chapters · average 3,148
+**Review copy** · chapters 1–30 · **94,783 words** · 30 chapters · average 3,159
 
 *She has spent four years asking questions for other people. Now she has to ask one for herself, of the one woman in England who has spent forty years refusing to be asked: Ask me. I will answer.*
 
@@ -47,11 +47,11 @@
 | 24 | The Turning | 3,359 |
 | 25 | The Cup | 2,756 |
 | 26 | Ask Me | 2,795 |
-| 27 | Because You Would Answer | 2,958 |
+| 27 | Because You Would Answer | 2,909 |
 | 28 | What She Read | 2,898 |
 | 29 | The Blank | 2,741 |
-| 30 | Ask Me What I Want | 2,754 |
-| | **Total** | **94,431** |
+| 30 | Ask Me What I Want | 3,155 |
+| | **Total** | **94,783** |
 
 ---
 
@@ -6619,7 +6619,7 @@ The rain came off the eave. It hit the stone.
 
 "You have picked that up from the parish," I said. "They talk at your door."
 
-"They talk at my door," she said. "They do not come in and they talk, and I have had forty years of it, and I know what is left in a room when you have gone out of it."
+"They talk at my door," she said.
 
 ***
 
@@ -6699,7 +6699,7 @@ I sat with my hands resting on my knees.
 
 "It is a story a person tells to make a rule out of an accident."
 
-"It is a story I have," she said. "I did not make a rule of it. I stopped asking, that is all, and a person who stops asking does not have to explain it to anybody, and I have not explained it to anybody until this morning, and I am explaining it badly."
+"It is a story I have," she said. "I did not make a rule of it. I stopped asking, that is all, and a person who stops asking does not have to explain it to anybody."
 
 ***
 
@@ -7441,9 +7441,33 @@ She had never asked me anything. In four months she had answered questions and r
 
 She nodded once, and took the bread, and went in, and shut the door with her hand flat on it the way she did.
 
-I went back up the lane. It was the middle of October and the hedge was going over and there was a man on the road below with a barrow and the barrow had a wheel that wanted grease, and I could hear the wheel from the top of the lane, which meant the wind was coming up the valley rather than down it.
+***
 
-At the gate I stopped and stood for a while.
+I went to Barrowfield in the last week of October, on my way back from the turning, because a promise made at a table in November is a promise that should be kept before the year turns.
+
+The house at the market cross had a new knocker and the same blue cloth at the window. Judith opened the door herself, which told me more than a servant would have, and she was not a girl any more. She was a woman of three and twenty with a smut of ink on her thumb and a ledger open on the table behind her, and she looked at me as a person looks at someone they have been expecting.
+
+"I am Mrs. Tarrant now," she said. "And you are late."
+
+"I am late," I said. "I have been a long time learning what to ask."
+
+She stood back and let me in, and the room was the room where I had once told her she had been priced at six thousand pounds, and it was warmer now and there was a fire and the whole of the office of the beam was in her hand, which was where Amos Kell had meant it to be.
+
+"You came back to tell me what you asked."
+
+"I came back because I said I would." I sat down at the table she had been keeping. "And what I asked, when I was finally asked, was a window. A small one. Painted shut since before I was married."
+
+She did not laugh, which is the mark of a person who has learned that a small want is not a small thing.
+
+"I ask now," she said. "Not every day, and not always out loud, but I ask. Nicholas leaves the office to me, and I have put a chair at the head of the table where my guardian used to sit, and I sit in it."
+
+I put my hand over hers on the table the way a woman does who has decided that gratitude is best given plainly. "You told me I was a girl in a book. You were wrong. I was a girl in a chair, and you were the first person who came to take me out of it."
+
+I left Barrowfield before the light went, because a promise kept is a thing best not lingered over.
+
+I came away from Barrowfield in the grey of the afternoon. It was the last week of October and the hedge was going over and there was a man on the road below with a barrow and the barrow had a wheel that wanted grease, and I could hear the wheel from the top of the lane, which meant the wind was coming up the valley rather than down it.
+
+At my gate I stopped and stood for a while.
 
 I asked for other people all my life. I said so to a man in a bedroom in July and he told me that it was not true, and he was right, and I have thought about it since and I have come to this: I did ask, once, when I was very small, and the asking was answered in a way that taught me not to do it again, and I spent thirty years being very good at not doing it again, and I got a trade out of it and a name for myself and a great deal of other people's gratitude, and none of it was the thing I wanted, and the thing I wanted turned out to be a window and a question and a woman at a door asking me whether I would come next week.
 
