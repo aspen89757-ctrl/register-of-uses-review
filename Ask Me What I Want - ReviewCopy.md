@@ -937,7 +937,7 @@ She was in the yard with her sleeves rolled and her arms in a tub, and she did n
 
 "The vestry voted," she said.
 
-"Six to three."
+"Four to three."
 
 "Who were the three?"
 

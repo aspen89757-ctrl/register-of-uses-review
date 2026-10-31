@@ -8944,7 +8944,7 @@ I stood in the yard and looked at the roof that a man had mended for nothing at 
 
 He put his hat on.
 
-"I will do what I can," he said. "I am seventy-one and I have eleven hundred pounds to find and a reputation that is not worth what it was in March. But I will do what I can, and I want you to know that I am not doing it for her, because she is dead and it would be a strange thing to do for a dead woman.
+"I will do what I can," he said. "I am sixty-two and I have eleven hundred pounds to find and a reputation that is not worth what it was in March. But I will do what I can, and I want you to know that I am not doing it for her, because she is dead and it would be a strange thing to do for a dead woman.
 
 "I am doing it because I have spent forty years being a man who signs things and I have found out what that is worth and I do not care for it."
 
