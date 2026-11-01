@@ -2,7 +2,7 @@
 
 *The Register of Uses · Book Four*
 
-**Review copy** · chapters 1–30 · **94,783 words** · 30 chapters · average 3,159
+**Review copy** · chapters 1–30 · **94,785 words** · 30 chapters · average 3,160
 
 *She has spent four years asking questions for other people. Now she has to ask one for herself, of the one woman in England who has spent forty years refusing to be asked: Ask me. I will answer.*
 
@@ -50,8 +50,8 @@
 | 27 | Because You Would Answer | 2,909 |
 | 28 | What She Read | 2,898 |
 | 29 | The Blank | 2,741 |
-| 30 | Ask Me What I Want | 3,155 |
-| | **Total** | **94,783** |
+| 30 | Ask Me What I Want | 3,157 |
+| | **Total** | **94,785** |
 
 ---
 
@@ -7469,7 +7469,7 @@ I came away from Barrowfield in the grey of the afternoon. It was the last week 
 
 At my gate I stopped and stood for a while.
 
-I asked for other people all my life. I said so to a man in a bedroom in July and he told me that it was not true, and he was right, and I have thought about it since and I have come to this: I did ask, once, when I was very small, and the asking was answered in a way that taught me not to do it again, and I spent thirty years being very good at not doing it again, and I got a trade out of it and a name for myself and a great deal of other people's gratitude, and none of it was the thing I wanted, and the thing I wanted turned out to be a window and a question and a woman at a door asking me whether I would come next week.
+I asked for other people all my life. I said so to a man in a bedroom in July and he told me that it was not true, and he was right, and I have thought about it since and I have come to this: I did ask, once, when I was very small, and the asking was answered in a way that taught me not to do it again, and I spent most of my life being very good at not doing it again, and I got a trade out of it and a name for myself and a great deal of other people's gratitude, and none of it was the thing I wanted, and the thing I wanted turned out to be a window and a question and a woman at a door asking me whether I would come next week.
 
 The wind came up the valley. The wheel complained.
 

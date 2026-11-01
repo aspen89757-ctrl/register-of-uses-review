@@ -2,7 +2,7 @@
 
 *The Register of Uses · Book One*
 
-Review copy · chapters 1–33 · 110,971 words
+Review copy · chapters 1–33 · 110,970 words
 
 ---
 
@@ -9847,7 +9847,7 @@ The ring says, on the inside where nobody sees it:
 
 *ASK, AND BE ANSWERED. AND THEN BE QUIET.*
 
-I have had it a year and a half. I can do the first two.
+I have had it two years and more. I can do the first two.
 
 ---
 
